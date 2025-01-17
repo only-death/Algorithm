@@ -2,11 +2,11 @@
 
 ## 💻 Algorithm
 
-`기간` : 2024년 12월 16일 ~
+`기간` : 2024년 12월 16일 ~ 
 
-`장소` : Zoom
+`장소` : Discode
 
-`시간` : 평일 9:00 ~ 11:50
+`시간` : 각자 시간대
 
 `플랫폼` : [<img src="https://github.com/user-attachments/assets/f775d5dd-e387-422e-9eac-381e74ad0279" width="150px" >](https://school.programmers.co.kr/learn/challenges?order=recent&levels=0&languages=javascript)
 
@@ -23,9 +23,9 @@
 
 ## 📄 코테 규칙
 
-1️⃣ **문제 이슈 등록**: 당일 오전 9시 전까지 문제 3개~5개 [이슈](https://github.com/only-death/Algorithm/issues)로 올리기.
+1️⃣ **문제 이슈 등록**: 자정까지 문제 1개 [이슈](https://github.com/only-death/Algorithm/issues)로 올리기.
 
-2️⃣ **문제 풀이** : 9시 정각부터 문제를 풀고, 풀이를 해당 이슈 댓글에 올리기.
+2️⃣ **문제 풀이** : 문제를 풀고, 풀이를 해당 이슈 댓글에 올리기.
 
 3️⃣ **풀이 공유** : 각자의 풀이 방식을 공유.
 
